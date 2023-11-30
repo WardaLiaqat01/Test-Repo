@@ -10,3 +10,6 @@ This is testing of local changes from machine to github repo.
 
 Open html page in your browser!
 
+
+Testing git behaviour
+
